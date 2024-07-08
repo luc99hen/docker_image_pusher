@@ -1,2 +1,1 @@
 xift/jetson_devicequery:r32.5.0
-nvidia/cuda:11.0.3-base-ubuntu20.04
