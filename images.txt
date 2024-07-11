@@ -1,2 +1,2 @@
 xift/jetson_devicequery:r32.5.0
-tutum/dnsutils
+infoblox/dnstools 
